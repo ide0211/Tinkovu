@@ -3,18 +3,18 @@
 			"default":{
 				"title_faceA": "Toca la tarjeta para seleccionar una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question": "¿Pones la leche antes o después de los cereales?",
-				"a": "Leche antes de los cereales",
-				"b": "El cereal antes de la leche",
+				"question": "¿Pones la leche antes o después del cereal?",
+				"a": "¡Leche antes del cereal!",
+				"b": "¡El cereal antes de la leche!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿En qué prefiere untar la mantequilla?",
+				"question": "¿En qué prefieres untar la mantequilla?",
 				"a": "Pan",
 				"b": "Galletas",
 				"c": "Tostada",
@@ -22,10 +22,10 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cómo te gusta el zumo por la mañana? ",
-				"a": "Hecho en casa, con naranjas frescas",
-				"b": "En una caja de zumo del supermercado",
-				"c": "No bebo zumo por la mañana",
+				"question": "¿Cómo prefieres un jugo de frutas por la mañana? ",
+				"a": "Hecho en casa, con frutas frescas",
+				"b": "Los de caja de cartón del supermercado",
+				"c": "No bebo jugo de frutas por la mañana",
 				"d":"",
 				"e":""
 			},
@@ -40,7 +40,7 @@
 			"question_5":{
 				"question": "¿Mojas el pan en leche?",
 				"a": "Sí, me encanta",
-				"b": "No, el pan se ablanda después",
+				"b": "No, no me agrada el pan remojado",
 				"c": "Prefiero mojarlo en café",
 				"d":"",
 				"e":""
@@ -91,15 +91,15 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "¿Se sirve [partenaireName] la leche antes o después de los cereales?",
-				"a": "Leche antes de los cereales",
-				"b": "Cereal antes de la leche",
+				"question": "¿Se sirve [partenaireName] la leche antes o después del cereal?",
+				"a": "¡Leche antes del cereal!",
+				"b": "¡Cereal antes de la leche!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿con qué le gusta a [partenaireName] untar la mantequilla?",
+				"question": "¿Con qué prefiere [partenaireName] untar la mantequilla?",
 				"a": "Pan",
 				"b": "Galletas",
 				"c": "Tostadas",
@@ -107,10 +107,10 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cómo le gusta a [partenaireName] su zumo por la mañana?",
-				"a": "Hecho en casa, con naranjas frescas",
+				"question": "¿Cómo prefiere [partenaireName] su jugo de frutas por la mañana?",
+				"a": "Hecho en casa, con frutas frescas",
 				"b": "En una caja de cartón del supermercado",
-				"c": "No beben zumo por la mañana",
+				"c": "No bebe jugo de frutas por la mañana",
 				"d":"",
 				"e":""
 			},
@@ -118,20 +118,20 @@
 				"question": "¿Qué hace [partenaireName] mientras desayuna?",
 				"a": "Ven la televisión",
 				"b": "Leen las noticias",
-				"c": "Están hablando por teléfono",
+				"c": "Utiliza el teléfono",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Mezcla [partenaireName] el pan en la leche?",
+				"question": "¿[partenaireName] remoja el pan en la leche?",
 				"a": "¡Sí!",
-				"b": "No, porque el pan se ablanda después",
-				"c": "Prefieren mojarlo en café",
+				"b": "No, porque no le agrada el pan remojado",
+				"c": "Prefiere mojarlo en café",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Prefiere [partenaireName] el pan de chocolate o los croissants?",
+				"question": "¿[partenaireName] prefiere el pan de chocolate o los croissants?",
 				"a": "Pan de chocolate",
 				"b": "Croissants",
 				"c":"",
