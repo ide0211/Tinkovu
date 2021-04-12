@@ -6,7 +6,7 @@
 				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question": "Durante la hora feliz, ¿qué prefieres beber?",
+				"question": "Durante 'Happy Hour', ¿qué prefieres beber?",
 				"a": "Un refresco",
 				"b": "Vino",
 				"c": "Cerveza",
@@ -15,14 +15,14 @@
 			},
 			"question_2":{
 				"question": "¿Te gusta comer galletas antes de que lleguen los invitados?",
-				"a": "Sí, no puedo contenerme",
-				"b": "No, prefiero esperarlas",
+				"a": "Sí!, no puedo contenerme",
+				"b": "No, prefiero esperarlos",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cuál es su sabor de patatas fritas favorito?",
+				"question": "¿Cuál es tu sabor preferido de patatas fritas?",
 				"a": "Old Fashioned",
 				"b": "Vinagre",
 				"c": "Pollo",
@@ -30,7 +30,7 @@
 				"e": "Clásicas"
 			},
 			"question_4":{
-				"question": "¿Cuál es tu tema favorito para discutir?",
+				"question": "¿Cuál es tu tema preferido para discutir?",
 				"a": "Otras personas",
 				"b": "El último programa de televisión",
 				"c": "El futuro",
@@ -91,7 +91,7 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "Durante la hora feliz, ¿qué prefiere beber [partenaireName]?",
+				"question": "Durante un 'Happy Hour', ¿qué prefiere beber [partenaireName]?",
 				"a": "Un refresco",
 				"b": "Vino",
 				"c": "Una cerveza",
@@ -99,15 +99,15 @@
 				"e": "Un cóctel"
 			},
 			"question_2":{
-				"question": "¿Es [partenaireName] el tipo de persona que come galletas antes de que lleguen los invitados?",
-				"a": "Sí, no pueden contenerse",
-				"b": "No, prefieren esperarlas",
+				"question": "¿[partenaireName] es el tipo de persona que come galletas antes de que lleguen los invitados?",
+				"a": "Sí!, no puede contenerse",
+				"b": "No, prefiere esperarlas",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cuál es el sabor de patatas fritas favorito de [partenaireName]?",
+				"question": "¿Cuál es el sabor preferido de patatas fritas de [partenaireName]?",
 				"a": "Old Fashioned",
 				"b": "Vinagre",
 				"c": "Pollo",
@@ -115,7 +115,7 @@
 				"e": "Clásico"
 			},
 			"question_4":{
-				"question": "¿Cuál es el tema favorito de [partenaireName] para discutir?",
+				"question": "¿Cuál es el tema preferido de [partenaireName] para discutir?",
 				"a": "Otras personas",
 				"b": "El último programa de televisión",
 				"c": "El futuro",
@@ -131,7 +131,7 @@
 				"e": "Té helado"
 			},
 			"question_6":{
-				"question": "¿Pone [partenaireName] hielo en su bebida?",
+				"question": "¿[partenaireName] pone hielo en su bebida?",
 				"a": "Sí, ¡quieren que esté muy fría!",
 				"b": "No, porque cambia el sabor",
 				"c":"",
