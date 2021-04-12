@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
+				"endtitle_A": "¡Veamos si tu compañero/a te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Qué es lo que más te gusta de [partenaireName]?",
@@ -17,21 +17,21 @@
 			"question_2":{
 				"question": "¿Qué momento te ha gustado más de estar con [partenaireName]?",
 				"a": "Amanecer",
-				"b": "Tarde",
-				"c": "Tarde",
+				"b": "Mediodía",
+				"c": "Atardecer",
 				"d": "Noche",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Amas a [partenaireName] por?",
-				"a": "Él/ella es gentil",
-				"b": "Él/ella es inteligente",
-				"c": "Cualquier otra cosa",
+				"question": "¿Amas a [partenaireName] por ser?",
+				"a": "Gentil",
+				"b": "Inteligente",
+				"c": "Otros motivos",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Compartes secretos?",
+				"question": "¿Le has compartido secretos?",
 				"a": "Sí",
 				"b": "No",
 				"c": "A veces",
@@ -39,10 +39,10 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Confía en [partenaireName]?",
+				"question": "¿Confías en [partenaireName]?",
 				"a": "Sí",
 				"b": "No",
-				"c": "Es difícil",
+				"c": "Es complicado",
 				"d": "Rara vez",
 				"e":""
 			},
@@ -92,7 +92,7 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "¿Qué es lo que más le gusta a [partenaireName]?",
+				"question": "¿Qué es lo que más le gusta a [partenaireName] de tí?",
 				"a": "Ojos",
 				"b": "Labios",
 				"c": "Voz",
@@ -102,21 +102,21 @@
 			"question_2":{
 				"question": "¿A qué hora le gusta más estar contigo a [partenaireName]?",
 				"a": "Amanecer",
-				"b": "Tarde",
-				"c": "Tarde",
+				"b": "Mediodía",
+				"c": "Atardecer",
 				"d": "Noche",
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] te quiere por...",
-				"a": "Él/ella es gentil",
-				"b": "Él/ella es inteligente",
-				"c": "Cualquier otra cosa",
+				"question":"[partenaireName] te quiere por ser...",
+				"a": "Gentil",
+				"b": "Inteligente",
+				"c": "Otros motivos",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Compartió [partenaireName] secretos?",
+				"question": "¿Alguna vez [partenaireName] te ha compartido secretos?",
 				"a": "Sí",
 				"b": "No",
 				"c": "A veces",
@@ -124,10 +124,10 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Confió [partenaireName] en usted?",
+				"question": "¿Confió [partenaireName] en ti?",
 				"a": "Sí",
 				"b": "No",
-				"c": "Es difícil",
+				"c": "Es complicado",
 				"d": "Rara vez",
 				"e":""
 			},
