@@ -3,7 +3,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Prefieres los dibujos animados o las películas?",
@@ -19,7 +19,7 @@
 				"b": "Terror",
 				"c": "Western",
 				"d": "Ciencia Ficción",
-				"e": "Superhéroe"
+				"e": "Superhéroes"
 			},
 			"question_3":{
 				"question": "¿Te gustan los superhéroes?",
@@ -38,8 +38,8 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "Tú y [partenaireName] os encontráis solos en el cine, ¿qué hacéis?",
-				"a": "Pido salir, es demasiado embarazoso",
+				"question": "Tú y [partenaireName] se encuentran solos en el cine, que harías?",
+				"a": "Me apresuro por salir, ¡es muy embarazoso!",
 				"b": "¡No hay problema! Vemos la película hasta las escenas aburridas",
 				"c":"",
 				"d":"",
@@ -91,7 +91,7 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "¿Prefiere [partenaireName] los dibujos animados o las películas?",
+				"question": "¿[partenaireName] prefiere los dibujos animados o las películas?",
 				"a": "Dibujos animados",
 				"b": "Películas",
 				"c":"",
@@ -104,7 +104,7 @@
 				"b": "Terror",
 				"c": "Western",
 				"d": "Ciencia Ficción",
-				"e": "Superhéroe"
+				"e": "Superhéroes"
 			},
 			"question_3":{
 				"question": "¿Le gustan los superhéroes a [partenaireName]?",
@@ -123,8 +123,8 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "Tú y [partenaireName] y os encontráis solos en el cine, ¿qué hacéis?",
-				"a": "Piden salir porque`\"es demasiado embarazoso\"",
+				"question": "Tú y [partenaireName] se encuentran solos en el cine, que haría?",
+				"a": "Se apresura pos salir porque`\"es demasiado embarazoso\"",
 				"b": "¡No hay problema! Vemos la película hasta las escenas aburridas",
 				"c":"",
 				"d":"",
