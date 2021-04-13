@@ -4,18 +4,18 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Con quién prefieres ir de vacaciones?",
 				"a": "Con mi pareja",
 				"b": "Con amigos",
 				"c": "Con la familia",
-				"d": "Solo",
+				"d": "A solas",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿A dónde sueles viajar?",
+				"question": "¿A dónde preferirías viajar?",
 				"a": "un lugar cálido",
 				"b": "un destino frío",
 				"c":"",
@@ -49,7 +49,7 @@
 			"question_6":{
 				"question": "¿Tienes miedo a volar?",
 				"a": "Un poco, sí",
-				"b": "En absoluto",
+				"b": "Para nada!",
 				"c":"",
 				"d":"",
 				"e":""
@@ -96,7 +96,7 @@
 				"a": "Conmigo",
 				"b": "Con amigos",
 				"c": "Con la familia",
-				"d": "Solo",
+				"d": "A solas",
 				"e":""
 			},
 			"question_2":{
@@ -120,7 +120,7 @@
 				"a": "Broncearse",
 				"b": "Quedarse en casa sin hacer nada",
 				"c": "Visitar lugares",
-				"d": "Pasar tiempo solos",
+				"d": "Pasar tiempo a solas",
 				"e":""
 			},
 			"question_5":{
@@ -134,13 +134,13 @@
 			"question_6":{
 				"question": "¿Tiene [partenaireName] miedo a volar?",
 				"a": "Un poco, sí",
-				"b": "En absoluto",
+				"b": "Para nada",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Podría [partenaireName] verse solo en la selva con usted?",
+				"question": "¿Podría [partenaireName] verse solo en la selva contigo?",
 				"a": "Sí",
 				"b": "No realmente",
 				"c":"",
