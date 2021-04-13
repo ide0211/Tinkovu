@@ -3,7 +3,7 @@
 			"default":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Cuál es tu fruta favorita?",
@@ -11,7 +11,7 @@
 				"b": "Peras",
 				"c": "Manzanas",
 				"d": "Naranjas",
-				"e": "Plátanos"
+				"e": "Bananas"
 			},
 			"question_2":{
 				"question": "¿Qué color te gusta menos?",
@@ -23,7 +23,7 @@
 			},
 			"question_3":{
 				"question": "¿Prefieres las palomitas dulces o saladas?",
-				"a": "Dulce",
+				"a": "Dulces",
 				"b": "Saladas",
 				"c":"",
 				"d":"",
@@ -32,13 +32,13 @@
 			"question_4":{
 				"question": "¿Qué sabor de leche es tu favorito?",
 				"a": "Leche de fresa",
-				"b": "Leche de menta",
+				"b": "Leche de chocolate",
 				"c": "Leche de vainilla",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Qué color prefiere?",
+				"question": "¿Qué color prefieres?",
 				"a": "Verde",
 				"b": "Naranja",
 				"c": "Violeta",
@@ -96,7 +96,7 @@
 				"b": "Peras",
 				"c": "Manzanas",
 				"d": "Naranjas",
-				"e": "Plátanos"
+				"e": "Bananas"
 			},
 			"question_2":{
 				"question": "¿Cuál es el color que menos le gusta a [partenaireName]?",
@@ -108,7 +108,7 @@
 			},
 			"question_3":{
 				"question": "¿Prefiere [partenaireName] las palomitas dulces o saladas?",
-				"a": "Dulce",
+				"a": "Dulces",
 				"b": "Saladas",
 				"c":"",
 				"d":"",
@@ -117,7 +117,7 @@
 			"question_4":{
 				"question": "¿Qué sabor de leche le gusta más a [partenaireName]?",
 				"a": "Leche de fresa",
-				"b": "Leche de menta",
+				"b": "Leche de chocolate",
 				"c": "Leche de vainilla",
 				"d":"",
 				"e":""
