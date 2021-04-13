@@ -3,12 +3,12 @@
 			"default":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Cómo sería para ti un domingo perfecto?",
 				"a": "Estar todo el día en la cama",
-				"b": "Ver una película en el sofá",
+				"b": "Maratón de películas!",
 				"c": "Tener una cita",
 				"d": "Pasar tiempo con mi familia",
 				"e":""
@@ -23,8 +23,8 @@
 			},
 			"question_3":{
 				"question": "¿Qué es lo que más te gusta?",
-				"a": "Ver películas",
-				"b": "Jugar a los videojuegos",
+				"a": "Ver películas/series",
+				"b": "Jugar videojuegos",
 				"c": "Jugar a juegos de mesa",
 				"d": "Limpiar",
 				"e":""
@@ -32,8 +32,8 @@
 			"question_4":{
 				"question": "¿Cómo ves la televisión?",
 				"a": "Acostado",
-				"b": "junto a mi pareja",
-				"c": "Solo",
+				"b": "Junto a [partenaireName]",
+				"c": "A solas",
 				"d": "No veo la televisión",
 				"e":""
 			},
@@ -46,7 +46,7 @@
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Caramelo, chocolate o palomitas?",
+				"question": "¿Caramelo, chocolate o palomitas de maíz?",
 				"a": "Caramelo",
 				"b": "Chocolate",
 				"c": "Palomitas de maíz",
@@ -91,15 +91,15 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "¿Cómo sería el domingo ideal para [partenaireName]?",
+				"question": "¿Cómo sería un domingo perfecto para [partenaireName]?",
 				"a": "Quedarse todo el día en la cama",
-				"b": "Ver una película en el sofá",
+				"b": "Hacer una maratón de películas",
 				"c": "Tener una cita",
 				"d": "Pasar tiempo con su familia",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es la estación favorita de tu pareja?",
+				"question": "¿Cuál es la estación favorita de [partenaireName]?",
 				"a": "Primavera",
 				"b": "Verano",
 				"c": "Otoño",
@@ -107,9 +107,9 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué prefiere [partenaireName]?",
-				"a": "Ver películas",
-				"b": "Jugar a los videojuegos",
+				"question": "¿Qué crees que prefiere [partenaireName]?",
+				"a": "Ver películas/series",
+				"b": "Jugar videojuegos",
 				"c": "Jugar a juegos de mesa",
 				"d": "Limpiar",
 				"e":""
@@ -117,9 +117,9 @@
 			"question_4":{
 				"question": "¿Cómo prefiere [partenaireName] ver la televisión?",
 				"a": "Tumbado",
-				"b": "Junto a ti",
-				"c": "Solo",
-				"d": "Mi pareja no ve la televisión",
+				"b": "Junto a mi",
+				"c": "A solas",
+				"d": "[partenaireName] no ve la televisión",
 				"e":""
 			},
 			"question_5":{
@@ -134,7 +134,7 @@
 				"question": "¿Prefiere [partenaireName] caramelos, chocolate o palomitas de maíz?",
 				"a": "Caramelo",
 				"b": "Chocolate",
-				"c": "Palomitas",
+				"c": "Palomitas de maíz",
 				"d":"",
 				"e":""
 			},
