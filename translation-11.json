@@ -4,18 +4,18 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question": "estás solo en una isla desierta con [partenaireName], ¿qué haces?",
+				"question": "Estás solo en una isla desierta con [partenaireName], ¿qué haces?",
 				"a": "Buscamos una salida",
 				"b": "Construimos una casa para vivir",
-				"c": "¡Repoblamos la isla!",
+				"c": "¡A repoblar se ha dicho!",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "Tú y [partenaireName] estáis solos en un ascensor averiado, ¿qué hacéis?",
+				"question": "Tú y [partenaireName] estan solos en un ascensor averiado, ¿qué harías?",
 				"a": "Me imagino que ambos estamos atrapados y podríamos disfrutarlo",
 				"b": "Empiezo a sentir claustrofobia",
 				"c": "Intentamos pasar un buen rato juntos",
@@ -23,9 +23,9 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "Sólo queda un chocolate en la caja:",
+				"question": "Sólo queda un chocolate en la caja, ¿qué harías?",
 				"a": "Lo dejo para [partenaireName]",
-				"b": "Me lo llevo",
+				"b": "Me lo quedo",
 				"c":"",
 				"d":"",
 				"e":""
@@ -95,7 +95,7 @@
 				"question": "Te encuentras solo con [partenaireName] en una isla desierta, ¿qué haces?",
 				"a": "Buscamos una salida",
 				"b": "Construimos una casa para vivir",
-				"c": "¡Repoblamos la isla!",
+				"c": "¡A repoblar se ha dicho!",
 				"d":"",
 				"e":""
 			},
@@ -108,9 +108,9 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "Sólo queda un chocolate en la caja:",
-				"a":"[partenaireName] me deja coger el último",
-				"b": "Se lo llevan",
+				"question": "Sólo queda un chocolate en la caja, qué haría [partenaireName]",
+				"a":"Me deja coger el último",
+				"b": "Se lo lleva",
 				"c":"",
 				"d":"",
 				"e":""
