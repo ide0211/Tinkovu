@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Perros o gatos?",
@@ -49,7 +49,7 @@
 			"question_6":{
 				"question":"[partenaireName] vuelve a casa con un conejo en sus manos, ¿cómo te sientes?",
 				"a": "Estoy súper feliz",
-				"b": "No sé cómo decirles que no lo quiero",
+				"b": "No sé cómo decirle que no lo quiero",
 				"c": "No me importa",
 				"d":"",
 				"e":""
