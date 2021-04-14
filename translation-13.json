@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Te duchas/bañas por la mañana o por la noche?",
@@ -15,7 +15,7 @@
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuánto tiempo tardas en la ducha/bañera?",
+				"question": "¿Para ti, cual es la temperatura ideal del agua en la ducha/bañera?",
 				"a": "Muy fría",
 				"b": "Fría",
 				"c": "Caliente",
