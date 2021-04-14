@@ -4,12 +4,12 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una pregunta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Ronca [partenaireName] mientras duerme?",
 				"a": "Sí, hacen mucho ruido",
-				"b": "No, son silenciosos",
+				"b": "No, es silencioso/a",
 				"c":"",
 				"d":"",
 				"e":""
@@ -19,7 +19,7 @@
 				"a": "Siempre soy yo",
 				"b": "Es [partenaireName]",
 				"c": "Nos turnamos",
-				"d": "Nunca hacemos la cama",
+				"d": "Ninguno de los dos!",
 				"e":""
 			},
 			"question_3":{
@@ -31,7 +31,7 @@
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Duerme usted sobre su lado izquierdo o derecho?",
+				"question": "¿Duermes sobre tu lado izquierdo o derecho?",
 				"a": "Lado izquierdo",
 				"b": "Lado derecho",
 				"c":"",
@@ -39,16 +39,16 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Sueña a menudo con [partenaireName]?",
-				"a": "Sí, muy a menudo",
-				"b": "A veces sucede",
-				"c": "¡Todo el tiempo!",
-				"d":"",
+				"question": "¿Sueñas a menudo con [partenaireName]?",
+				"a": "Todo el tiempo",
+				"b": "Si, a menudo",
+				"c": "A veces sucede",
+				"d":"Para nada",
 				"e":""
 			},
 			"question_6":{
 				"question": "¿Quién es más probable que robe la manta?",
-				"a": "Claramente, [nombre del participante]",
+				"a": "Claramente, [partenaireName]",
 				"b": "Soy yo, porque siempre tengo frío",
 				"c":"",
 				"d":"",
@@ -94,7 +94,7 @@
 			"question_1":{
 				"question": "¿Roncas en la cama?",
 				"a": "Sí, hago mucho ruido",
-				"b": "No, soy silencioso",
+				"b": "No, soy silencioso/a",
 				"c":"",
 				"d":"",
 				"e":""
@@ -125,10 +125,10 @@
 			},
 			"question_5":{
 				"question": "¿Sueña [partenaireName] a menudo con usted?",
-				"a": "Sí, muy a menudo",
-				"b": "A veces sucede",
-				"c": "¡Todo el tiempo!",
-				"d":"",
+				"a": "Todo el tiempo",
+				"b": "Si, a menudo",
+				"c": "A veces sucede",
+				"d":"Para nada",
 				"e":""
 			},
 			"question_6":{
