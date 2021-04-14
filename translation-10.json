@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Vas a casarte con [partenaireName]?",
