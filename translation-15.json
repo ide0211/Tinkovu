@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question":"[partenaireName] te ofrece un salto en paracaídas, ¿aceptas?",
@@ -23,7 +23,7 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué actividad prefieren hacer juntos?",
+				"question": "¿Qué actividad prefieres hacer junto a [partenaireName]",
 				"a": "Deporte 💪",
 				"b": "Deporte 😏",
 				"c": "Ir de compras",
@@ -108,7 +108,7 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué actividad prefieren hacer juntos?",
+				"question": "¿Qué actividad prefiere [partenaireName] hacer contigo?",
 				"a": "Deporte 💪",
 				"b": "Deporte 😏",
 				"c": "Ir de compras",
@@ -117,16 +117,16 @@
 			},
 			"question_4":{
 				"question": "¿Quién elige más veces la película de cine?",
-				"a": "Nombre del partenaire",
+				"a": "[partenaireName]",
 				"b": "Soy yo",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te besas en público?",
-				"a": "Sí, qué pena para los que odian",
-				"b": "¡No, somos correctos!",
+				"question": "¿Te besas en público con [partenaireName]?",
+				"a": "Sí, qué pena para los que lo detestan",
+				"b": "¡No, somos discretos",
 				"c":"",
 				"d":"",
 				"e":""
