@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una pregunta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Qué capital te gustaría visitar?",
@@ -15,12 +15,12 @@
 				"e": "Moscú"
 			},
 			"question_2":{
-				"question": "¿Su medio de transporte favorito?",
+				"question": "¿Cual es tu medio de transporte preferido?",
 				"a": "El avión",
 				"b": "El tren",
 				"c": "El coche",
 				"d": "La bicicleta",
-				"e": "Mis pies"
+				"e": "Patitas pa' que las tengo!"
 			},
 			"question_3":{
 				"question": "¿Te imaginas explorando la selva?",
@@ -105,18 +105,18 @@
 				"b": "Tren",
 				"c": "Coche",
 				"d": "Bicicleta",
-				"e": "Sus pies"
+				"e": "Sus piecitos"
 			},
 			"question_3":{
-				"question": "¿Se imagina a [partenaireName] explorando la selva?",
-				"a": "No, prefieren quedarse en un hotel",
-				"b": "¡Sería una gran experiencia para ellos!",
+				"question": "¿Te imaginas a [partenaireName] explorando la selva?",
+				"a": "No, prefiere quedarse en un hotel",
+				"b": "¡Sería una gran experiencia para [partenaireName]!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Le gustaría a [partenaireName] hacer un viaje por carretera con usted?",
+				"question": "¿Crees que le gustaría a [partenaireName] hacer un viaje por carretera contigo?",
 				"a": "Claro, ¿por qué no?",
 				"b": "No soportarían tanto viaje en coche",
 				"c":"",
@@ -141,7 +141,7 @@
 			},
 			"question_7":{
 				"question": "¿Puedes ver a [partenaireName] haciendo ciclismo de montaña?",
-				"a": "No les gusta montar en bicicleta",
+				"a": "No le gusta montar en bicicleta",
 				"b": "¡Si definitivamente!",
 				"c":"",
 				"d":"",
