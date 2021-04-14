@@ -3,7 +3,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Tulipanes o rosas?",
@@ -22,7 +22,7 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Comes 5 frutas y verduras al día?",
+				"question": "¿Comes 5 frutas o verduras al día?",
 				"a": "Por supuesto que sí",
 				"b": "Creo que no",
 				"c":"",
@@ -107,7 +107,7 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Consume [partenaireName] 5 frutas y verduras al día?",
+				"question": "¿Consume [partenaireName] 5 frutas o verduras al día?",
 				"a": "Por supuesto que sí",
 				"b": "Creo que no",
 				"c":"",
