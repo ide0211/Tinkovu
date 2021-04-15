@@ -4,10 +4,10 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
+				"endtitle_A": "¡Veamos si tu compañero te conoce bien!"
 			},
 			"question_1":{
-				"question": "¿Recuerdas la primera vez que os conocisteis?",
+				"question": "¿Recuerdas la primera vez que se conocieron?",
 				"a": "Sí",
 				"b": "No estoy seguro",
 				"c":"",
@@ -23,9 +23,9 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Duerme usted el primero o ayuda a dormir a [partenaireName]?",
-				"a": "Yo mismo",
-				"b": "Hacerle dormir",
+				"question": "¿Te duermes primero o ayudas a [partenaireName] a dormir antes?",
+				"a": "Me duermo primero",
+				"b": "Le ayudo a dormir",
 				"c":"",
 				"d":"",
 				"e":""
@@ -39,7 +39,7 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Con qué frecuencia entiendes lo que necesita sin decirlo?",
+				"question": "¿Con qué frecuencia entiendes lo que necesita [partenaireName] sin decirlo?",
 				"a": "No mucho",
 				"b": "Todas las veces",
 				"c": "Lo intento",
@@ -108,15 +108,15 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Duerme primero [partenaireName] o le ayuda a dormirse?",
-				"a": "Él/ella primero",
-				"b": "Me ayuda",
+				"question": "¿[partenaireName] se duerme primero o te ayuda a dormir antes?",
+				"a": "Se duerme primero",
+				"b": "Me ayuda antes",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Alguna vez [partenaireName] pensó en sus sentimientos?",
+				"question": "¿Alguna vez [partenaireName] pensó en tus sentimientos?",
 				"a": "Sí todos los días",
 				"b": "No",
 				"c": "No me importa",
@@ -124,7 +124,7 @@
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Con qué frecuencia entiende lo que necesita sin siquiera decirlo?",
+				"question": "¿Con qué frecuencia [partenaireName] entiende lo que necesitas sin siquiera decirlo?",
 				"a": "No mucho",
 				"b": "Todas las veces",
 				"c": "Él/ella lo intenta",
