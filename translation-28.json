@@ -4,10 +4,10 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si te conoce bien!"
+				"endtitle_A": "¡Veamos si te conoce bien!"
 			},
 			"question_1":{
-				"question": "¿Cuál es tu posición sexual favorita entre:",
+				"question": "¿Qué posición sexual prefieres?",
 				"a": "El misionero",
 				"b": "El estilo perrito",
 				"c": "La posición de Andrómaca",
@@ -23,9 +23,9 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Haces ruido cuando haces sexo?",
+				"question": "¿Haces ruido durante el sexo?",
 				"a": "¡Ooh sí!",
-				"b": "No, soy discreto",
+				"b": "No, prefiero la discreción",
 				"c":"",
 				"d":"",
 				"e":""
@@ -36,18 +36,18 @@
 				"b": "¡Continúa!",
 				"c": "¡Oh f*ck!",
 				"d": "No pares",
-				"e":""
+				"e":"Nada"
 			},
 			"question_5":{
-				"question": "¿Te consideras bueno en la cama?",
-				"a": "Soy el mejor",
+				"question": "¿Consideras tener buenas habilidades en la cama?",
+				"a": "Soy profesional!",
 				"b": "Hago lo mejor que puedo",
 				"c": "No sé",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Dónde está tu lugar favorito para el sexo?",
+				"question": "¿Cuál es tu lugar favorito para tener sexo?",
 				"a": "En el dormitorio",
 				"b": "En el baño",
 				"c": "En la sala de estar",
@@ -110,34 +110,34 @@
 			"question_3":{
 				"question": "¿Hace ruido [partenaireName] cuando hace el amor?",
 				"a": "¡Oh, sí!",
-				"b": "No, él/ella es discreto/a",
+				"b": "No, prefiere la discreción",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
 				"question": "¿Qué te dice [partenaireName] durante el sexo?",
-				"a": "Te quiero",
+				"a": "Te amo",
 				"b": "¡Continúa!",
 				"c": "¡Oh f*ck!",
 				"d": "No pares",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Es [partenaireName] bueno en la cama?",
-				"a": "El mejor",
-				"b": "Él/ella es muy bueno/a.ne",
-				"c": "Él/ella no sabe",
+				"question": "¿Consideras que [partenaireName] tiene buenas habilidades en la cama?",
+				"a": "¡Es profesional!",
+				"b": "Hace lo mejor que puede",
+				"c": "No lo sé",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"",
-				"a":"",
-				"b":"",
-				"c":"",
-				"d":"",
-				"e":""
+				"question": "¿Cuál es tu lugar favorito de [partenaireName] para tener sexo?",
+				"a": "En el dormitorio",
+				"b": "En el baño",
+				"c": "En la sala de estar",
+				"d": "En un probador",
+				"e": "En los baños públicos"
 			},
 			"question_7":{
 				"question":"",
