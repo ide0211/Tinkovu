@@ -4,29 +4,29 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Cómo le demuestras a [partenaireName] que quieres sexo?",
-				"a": "Me pego a él/ella",
+				"a": "Me pego a [partenaireName]",
 				"b": "Le muerdo la oreja",
-				"c": "Le desvisto a él/ella",
+				"c": "Le quito la ropa",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
 				"question": "Cuando sales de la ducha estás:",
-				"a": "Completamente desnudo",
+				"a": "Completamente sin ropa",
 				"b": "Con poca ropa",
-				"c": "En albornoz",
-				"d": "Con la toalla que me esconde",
+				"c": "En bata de baño",
+				"d": "Con la toalla",
 				"e":""
 			},
 			"question_3":{
 				"question": "¿Te parece sexy [partenaireName]?",
-				"a": "Sí, él/ella me excita",
-				"b": "Que hombre",
-				"c": "Qué mujer",
+				"a": "Sí, me excita",
+				"b": "Qué hombre!",
+				"c": "Qué mujer!",
 				"d":"",
 				"e":""
 			},
@@ -48,8 +48,8 @@
 			},
 			"question_6":{
 				"question": "¿Qué haces después de tener sexo?",
-				"a": "Estoy durmiendo",
-				"b": "Estamos viendo una película",
+				"a": "Dormir",
+				"b": "Ver una película",
 				"c": "Nos duchamos",
 				"d": "Volvemos a hacer el amor",
 				"e": "Algo más"
@@ -93,23 +93,23 @@
 			},
 			"question_1":{
 				"question": "¿Cómo te muestra [partenaireName] que él / ella quiere sexo?",
-				"a": "Él / Ella se pega a mí",
-				"b": "Él / Ella me mordisquea la oreja",
-				"c": "Él / Ella me desnuda",
+				"a": "[partenaireName] se pega a mí",
+				"b": "[partenaireName] me mordisquea la oreja",
+				"c": "[partenaireName] me desnuda",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
 				"question": "Al salir de la ducha, [partenaireName] está:",
-				"a": "Completamente desnudo",
+				"a": "Completamente sin ropa",
 				"b": "Con poca ropa",
-				"c": "En albornoz",
-				"d": "Con la toalla para esconderse",
+				"c": "En bata de baño",
+				"d": "Con la toalla",
 				"e":""
 			},
 			"question_3":{
 				"question": "¿Cómo encuentras a [partenaireName]?",
-				"a": "Excitante.e",
+				"a": "Excitante!",
 				"b": "Hombre muy guapo",
 				"c": "Mujer muy guapa",
 				"d":"",
