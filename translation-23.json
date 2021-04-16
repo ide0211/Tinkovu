@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta para responder a una respuesta",
 				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"endtitle_A": "¡Veamos si tus amigos te conocen bien!"
 			},
 			"question_1":{
 				"question": "¿Cuál es tu red social favorita?",
@@ -23,7 +23,7 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Woutube o Dailymotion?",
+				"question": "¿Plataforma preferida de videos?",
 				"a": "Youtube",
 				"b": "Dailymotion",
 				"c": "Vimeo",
@@ -31,7 +31,7 @@
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Ves vídeos de ASMR?",
+				"question": "¿Ves videos de ASMR?",
 				"a": "Todas las noches antes de dormir",
 				"b": "Ocurre de vez en cuando",
 				"c": "No",
@@ -47,7 +47,7 @@
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Pasas mucho tiempo viendo vídeos online?",
+				"question": "¿Pasas mucho tiempo viendo videos online?",
 				"a": "Mucho tiempo",
 				"b": "Soy razonable",
 				"c": "No, no me gusta",
@@ -108,8 +108,8 @@
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] se parece más a Youtube o a Dailymotion?",
-				"a": "Youtube",
+				"question":"La plataforma de videos preferida de [partenaireName] es?",
+				"a": "YouTube",
 				"b": "Dailymotion",
 				"c": "Vimeo",
 				"d":"",
