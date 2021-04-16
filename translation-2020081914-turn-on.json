@@ -4,7 +4,7 @@
 			"por defecto":{
 				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
 				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
+				"endtitle_A": "¡Veamos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
 				"question": "¿Qué es lo que más te excita?",
@@ -15,7 +15,7 @@
 				"e": "Algo más"
 			},
 			"question_2":{
-				"question": "¿Qué es lo que más te gusta de tu pareja?",
+				"question": "¿Qué es lo que más te gusta de [partenaireName]?",
 				"a": "Sonrisa sexy",
 				"b": "Ojos bonitos",
 				"c": "Buen cuerpo",
@@ -23,31 +23,31 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué te vuelve loco?",
+				"question": "¿Qué te enloquece?",
 				"a": "La forma en que te miran",
-				"b": "Abrazarte",
+				"b": "Los abrazos",
 				"c": "Algo más sucio",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es una forma rápida de encender?",
-				"a": "Enciéndelo rápido",
-				"b": "Enrollar lentamente",
-				"c": "Provocar",
-				"d": "Pisar el acelerador",
+				"question": "¿Cuál es la mejor forma de calentarte?",
+				"a": "Ir al grano",
+				"b": "Lentamente",
+				"c": "Jugueteos",
+				"d": "A toda máquina!",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Cuál es tu pequeño placer culpable?",
+				"question": "¿Cuál es tu pequeña fantasía
 				"a": "Fantasía de chocolate",
 				"b": "Despertares matutinos",
-				"c": "Secreto telefónico",
-				"d": "Vestirse",
+				"c": "Llamadas secretas",
+				"d": "Disfraces",
 				"e": "Juguetes"
 			},
 			"question_6":{
-				"question": "Un punto sensual:",
+				"question": "Tu punto más placentero:",
 				"a": "El pecho",
 				"b": "Muslos",
 				"c": "Orejas",
@@ -92,9 +92,9 @@
 				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question": "¿Cuál es el mayor encendido de [partenaireName]?",
+				"question": "¿Qué es lo que mas excita a [partenaireName]?",
 				"a": "Oír",
-				"b": "Degustación",
+				"b": "Saborear",
 				"c": "Olor",
 				"d": "Sentir",
 				"e": "Algo más"
@@ -108,31 +108,31 @@
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué vuelve loco a [partenaireName]?",
+				"question": "¿Qué enloquece a [partenaireName]?",
 				"a": "La forma en que te miran",
-				"b": "Abrazarte",
+				"b": "Los abrazos",
 				"c": "Algo más sucio",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es una forma rápida de encender [partenaireName]?",
-				"a": "Ponerse a ello rápidamente",
-				"b": "Enfriar lentamente",
-				"c": "Provocar",
-				"d": "Pisar el acelerador",
+				"question": "¿Cuál es la mejor forma de calentar a [partenaireName]?",
+				"a": "Ir al grano",
+				"b": "Lentamente",
+				"c": "Jugueteos",
+				"d": "A toda máquina!",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Cuál es el placer culpable de [partenaireName]?",
+				"question": "¿Cuál es la fantasía de [partenaireName]?",
 				"a": "Fantasía de chocolate",
 				"b": "Despertares matutinos",
-				"c": "Secreto telefónico",
-				"d": "Vestirse",
+				"c": "Llamadas secretas",
+				"d": "Disfraces",
 				"e": "Juguetes"
 			},
 			"question_6":{
-				"question":"[partenaireName] 's sensual spot:",
+				"question":"Cuál es el punto mas placentero de [partenaireName]",
 				"a": "El pecho",
 				"b": "Muslos",
 				"c": "Orejas",
